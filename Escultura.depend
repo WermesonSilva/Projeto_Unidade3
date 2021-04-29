@@ -1,0 +1,316 @@
+# depslib dependency file v1.0
+1616345700 source:c:\users\swerm\documents\c++\escultura\main.cpp
+	<iostream>
+	"classe_Sculptor.h"
+
+1615232813 source:c:\users\swerm\documents\c++\escultura\setcolor.cpp
+	"classe_Sculptor.h"
+
+1616621100 c:\users\swerm\documents\c++\escultura\classe_sculptor.h
+
+1615419448 source:c:\users\swerm\documents\c++\escultura\sculptor.cpp
+	"classe_Sculptor.h"
+
+1615314410 source:c:\users\swerm\documents\c++\escultura\geta.cpp
+	"classe_Sculptor.h"
+
+1615321985 source:c:\users\swerm\documents\c++\escultura\putvoxel.cpp
+	"classe_Sculptor.h"
+
+1615319941 source:c:\users\swerm\documents\c++\escultura\writeoff.cpp
+	"classe_Sculptor.h"
+	<iostream>
+	<fstream>
+
+1615375143 source:c:\users\swerm\documents\c++\escultura\cutvoxel.cpp
+	"classe_Sculptor.h"
+
+1615376713 source:c:\users\swerm\documents\c++\escultura\putbox.cpp
+	"classe_Sculptor.h"
+
+1615376713 source:c:\users\swerm\documents\c++\escultura\cutbox.cpp
+	"classe_Sculptor.h"
+
+1615421861 source:c:\users\swerm\documents\c++\escultura\putsphere.cpp
+	"classe_Sculptor.h"
+
+1615421911 source:c:\users\swerm\documents\c++\escultura\cutsphere.cpp
+	"classe_Sculptor.h"
+
+1615421995 source:c:\users\swerm\documents\c++\escultura\putellipsoid.cpp
+	"classe_Sculptor.h"
+
+1615422376 source:c:\users\swerm\documents\c++\escultura\cutellipsoid.cpp
+	"classe_Sculptor.h"
+
+1615376713 source:c:\users\swerm\documents\c++\escultura_uni2\cutbox.cpp
+	"classe_Sculptor.h"
+
+1616621100 c:\users\swerm\documents\c++\escultura_uni2\classe_sculptor.h
+
+1615422376 source:c:\users\swerm\documents\c++\escultura_uni2\cutellipsoid.cpp
+	"classe_Sculptor.h"
+
+1615421911 source:c:\users\swerm\documents\c++\escultura_uni2\cutsphere.cpp
+	"classe_Sculptor.h"
+
+1615375143 source:c:\users\swerm\documents\c++\escultura_uni2\cutvoxel.cpp
+	"classe_Sculptor.h"
+
+1615376713 source:c:\users\swerm\documents\c++\escultura_uni2\putbox.cpp
+	"classe_Sculptor.h"
+
+1615421995 source:c:\users\swerm\documents\c++\escultura_uni2\putellipsoid.cpp
+	"classe_Sculptor.h"
+
+1615421861 source:c:\users\swerm\documents\c++\escultura_uni2\putsphere.cpp
+	"classe_Sculptor.h"
+
+1615321985 source:c:\users\swerm\documents\c++\escultura_uni2\putvoxel.cpp
+	"classe_Sculptor.h"
+
+1615419448 source:c:\users\swerm\documents\c++\escultura_uni2\sculptor.cpp
+	"classe_Sculptor.h"
+
+1615232813 source:c:\users\swerm\documents\c++\escultura_uni2\setcolor.cpp
+	"classe_Sculptor.h"
+
+1615319941 source:c:\users\swerm\documents\c++\escultura_uni2\writeoff.cpp
+	"classe_Sculptor.h"
+	<iostream>
+	<fstream>
+
+1619010492 source:c:\users\swerm\documents\c++\escultura_uni2\class_cutbox.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_cutBox.h"
+
+1619012842 c:\users\swerm\documents\c++\escultura_uni2\figurageometrica.h
+	"classe_Sculptor.h"
+
+1619013130 c:\users\swerm\documents\c++\escultura_uni2\class_cutbox.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619013452 source:c:\users\swerm\documents\c++\escultura_uni2\class_cutellipsoid.cpp
+	"classe_Sculptor.h"
+	"Class_cutEllipsoid.h"
+
+1619013371 c:\users\swerm\documents\c++\escultura_uni2\class_cutellipsoid.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619013228 source:c:\users\swerm\documents\c++\escultura_uni2\class_cutsphere.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_cutSphere.h"
+
+1619013228 c:\users\swerm\documents\c++\escultura_uni2\class_cutsphere.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619012972 source:c:\users\swerm\documents\c++\escultura_uni2\class_cutvoxel.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_cutVoxel.h"
+
+1619012946 c:\users\swerm\documents\c++\escultura_uni2\class_cutvoxel.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619013070 source:c:\users\swerm\documents\c++\escultura_uni2\class_putbox.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_putBox.h"
+
+1619013070 c:\users\swerm\documents\c++\escultura_uni2\class_putbox.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619013326 source:c:\users\swerm\documents\c++\escultura_uni2\class_putellipsoid.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_putEllipsoid.h"
+
+1619013326 c:\users\swerm\documents\c++\escultura_uni2\class_putellipsoid.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619012805 source:c:\users\swerm\documents\c++\escultura_uni2\class_putvoxel.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_putVoxel.h"
+
+1619012773 c:\users\swerm\documents\c++\escultura_uni2\class_putvoxel.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619013174 source:c:\users\swerm\documents\c++\escultura_uni2\class_putsphere.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_putSphere.h"
+
+1619013174 c:\users\swerm\documents\c++\escultura_uni2\class_putsphere.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1618983293 source:c:\users\swerm\documents\c++\escultura_uni2\interpretador.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_putVoxel.h"
+	"Class_cutVoxel.h"
+	"Class_putBox.h"
+	"Class_cutBox.h"
+	"Class_putSphere.h"
+	"Class_cutSphere.h"
+	"Class_putEllipsoid.h"
+	"Class_cutEllipsoid.h"
+	"Interpretador.h"
+
+1618983195 c:\users\swerm\documents\c++\escultura_uni2\interpretador.h
+	"FiguraGeometrica.h"
+	<vector>
+
+1619009498 source:c:\users\swerm\documents\c++\escultura_uni2\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_putVoxel.h"
+	"Class_cutVoxel.h"
+	"Class_putBox.h"
+	"Class_cutBox.h"
+	"Class_putSphere.h"
+	"Class_cutSphere.h"
+	"Class_putEllipsoid.h"
+	"Class_cutEllipsoid.h"
+	"Interpretador.h"
+
+1619012605 source:c:\users\swerm\documents\c++\escultura_uni2\figurageometrica.cpp
+
+1619487959 source:c:\users\swerm\documents\c++\escultura_uni21\class_cutsphere.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_cutSphere.h"
+
+1616621100 c:\users\swerm\documents\c++\escultura_uni21\classe_sculptor.h
+
+1619114508 c:\users\swerm\documents\c++\escultura_uni21\figurageometrica.h
+	"classe_Sculptor.h"
+
+1619487959 c:\users\swerm\documents\c++\escultura_uni21\class_cutsphere.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619488730 source:c:\users\swerm\documents\c++\escultura_uni21\class_cutvoxel.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_cutVoxel.h"
+
+1619489002 c:\users\swerm\documents\c++\escultura_uni21\class_cutvoxel.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619489363 source:c:\users\swerm\documents\c++\escultura_uni21\class_putbox.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_putBox.h"
+
+1619489444 c:\users\swerm\documents\c++\escultura_uni21\class_putbox.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619490543 source:c:\users\swerm\documents\c++\escultura_uni21\class_putellipsoid.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_putEllipsoid.h"
+
+1619489730 c:\users\swerm\documents\c++\escultura_uni21\class_putellipsoid.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619490746 source:c:\users\swerm\documents\c++\escultura_uni21\class_putsphere.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_putSphere.h"
+
+1619490026 c:\users\swerm\documents\c++\escultura_uni21\class_putsphere.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619490262 source:c:\users\swerm\documents\c++\escultura_uni21\class_putvoxel.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_putVoxel.h"
+
+1619490379 c:\users\swerm\documents\c++\escultura_uni21\class_putvoxel.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619486994 source:c:\users\swerm\documents\c++\escultura_uni21\interpretador.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_putVoxel.h"
+	"Class_cutVoxel.h"
+	"Class_putBox.h"
+	"Class_cutBox.h"
+	"Class_putSphere.h"
+	"Class_cutSphere.h"
+	"Class_putEllipsoid.h"
+	"Class_cutEllipsoid.h"
+	"Interpretador.h"
+
+1619487300 c:\users\swerm\documents\c++\escultura_uni21\class_cutbox.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1619487710 c:\users\swerm\documents\c++\escultura_uni21\class_cutellipsoid.h
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+
+1618983195 c:\users\swerm\documents\c++\escultura_uni21\interpretador.h
+	"FiguraGeometrica.h"
+	<vector>
+
+1619487401 source:c:\users\swerm\documents\c++\escultura_uni21\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_putVoxel.h"
+	"Class_cutVoxel.h"
+	"Class_putBox.h"
+	"Class_cutBox.h"
+	"Class_putSphere.h"
+	"Class_cutSphere.h"
+	"Class_putEllipsoid.h"
+	"Class_cutEllipsoid.h"
+	"Interpretador.h"
+
+1619487300 source:c:\users\swerm\documents\c++\escultura_uni21\class_cutbox.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_cutBox.h"
+
+1619487710 source:c:\users\swerm\documents\c++\escultura_uni21\class_cutellipsoid.cpp
+	"classe_Sculptor.h"
+	"FiguraGeometrica.h"
+	"Class_cutEllipsoid.h"
+
+1619485186 source:c:\users\swerm\documents\c++\escultura_uni21\sculptor.cpp
+	<iostream>
+	<fstream>
+	"classe_Sculptor.h"
+

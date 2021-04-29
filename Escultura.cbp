@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Escultura" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Escultura" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Escultura" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Class_cutBox.cpp" />
+		<Unit filename="Class_cutBox.h" />
+		<Unit filename="Class_cutEllipsoid.cpp" />
+		<Unit filename="Class_cutEllipsoid.h" />
+		<Unit filename="Class_cutSphere.cpp" />
+		<Unit filename="Class_cutSphere.h" />
+		<Unit filename="Class_cutVoxel.cpp" />
+		<Unit filename="Class_cutVoxel.h" />
+		<Unit filename="Class_putBox.cpp" />
+		<Unit filename="Class_putBox.h" />
+		<Unit filename="Class_putEllipsoid.cpp" />
+		<Unit filename="Class_putEllipsoid.h" />
+		<Unit filename="Class_putSphere.cpp" />
+		<Unit filename="Class_putSphere.h" />
+		<Unit filename="Class_putVoxel.cpp" />
+		<Unit filename="Class_putVoxel.h" />
+		<Unit filename="FiguraGeometrica.h" />
+		<Unit filename="Interpretador.cpp" />
+		<Unit filename="Interpretador.h" />
+		<Unit filename="Sculptor.cpp" />
+		<Unit filename="classe_Sculptor.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
